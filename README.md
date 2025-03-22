@@ -1,2 +1,2 @@
 # Integration-Idea
-Integration design idea
+Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies. Making use of [Builder](https://refactoring.guru/design-patterns/builder) and [Facade](https://refactoring.guru/design-patterns/facade) design patterns
